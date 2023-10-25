@@ -5,8 +5,8 @@
 
 - 💬 Ask me about **Vue** or **UI/UX design**
 
-- 📫 How to reach me
-- Email: norbert.podbieglyyy@gmail.com
+- 📫 How to reach me:
+email: norbert.podbieglyyy@gmail.com
 
 - ⚡ Fun fact **I like milk**
 
