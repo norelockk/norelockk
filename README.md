@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Norelock</h1>
-<h3 align="center">A passionate developer from USA/Poland</h3>
+<h3 align="center">A passionate developer from Poland</h3>
 
 - 🔭 I’m currently working on [Trilogy Multiplayer as frontend dev](https://github.com/trilogy-multiplayer)
 
-- 💬 Ask me about **Vue**
+- 💬 Ask me about **Vue** or **UI/UX design**
 
-- 📫 How to reach me **Discord: norelock**
+- 📫 How to reach me
+- Email: norbert.podbieglyyy@gmail.com
 
 - ⚡ Fun fact **I like milk**
 
