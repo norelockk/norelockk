@@ -9,7 +9,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:norbert.podbieglyyy@gmail.com" target="blank"><img align="center" src="https://cssdp.org/uploads/2019/08/white-email-icon-png-26.png" height="30" width="30"></a>
 <a href="https://twitter.com/norelock1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="norelock1" height="30" width="30" /></a>
 <a href="https://instagram.com/norelockkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="norelockkk" height="30" width="30" /></a>
 <a href="https://www.youtube.com/@norelock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="norelock" height="30" width="30" /></a>
