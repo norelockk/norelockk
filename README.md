@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Norelock</h1>
 <h3 align="center">A passionate developer from Poland</h3>
 
-- 🔭 I’m currently working on [Trilogy Multiplayer as frontend dev](https://github.com/trilogy-multiplayer)
+- 🔭 I’m currently working on [Metropolitan Police Service (VRChat, not related with any law enforcement agencies)](https://github.com/Metropolitan-Police-VRChat) as programming developer
 
-- 💬 Ask me about **Vue** or **UI/UX design**
+- 💬 Ask me about **Vue**, **UI/UX design** or **VRChat Stuff**
 
 - ⚡ Fun fact **I like milk**
 
